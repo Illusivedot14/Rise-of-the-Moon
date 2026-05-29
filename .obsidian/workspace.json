@@ -11,10 +11,14 @@
             "id": "0bf1d70676fb7b15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "yrdd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "yrdd"
             }
           }
         ]
@@ -189,5 +193,7 @@
     }
   },
   "active": "0bf1d70676fb7b15",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "yrdd.md"
+  ]
 }
