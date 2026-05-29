@@ -1,0 +1,6 @@
+# Ignore all of .obsidian
+.obsidian/*
+
+# But include the snippets folder and its contents
+!.obsidian/snippets/
+!.obsidian/snippets/*

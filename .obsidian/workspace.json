@@ -11,14 +11,10 @@
             "id": "0bf1d70676fb7b15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yrdd.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "yrdd"
+              "title": "New tab"
             }
           }
         ]
@@ -192,8 +188,53 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0bf1d70676fb7b15",
+  "active": "ba8cdd200e6da057",
   "lastOpenFiles": [
-    "yrdd.md"
+    "yrdd.md",
+    "2-player-characters/0-the-party",
+    "1-the-world/0-material-plane/continents/stelvyrn-empire",
+    "1-the-world/0-material-plane/continents/New folder",
+    "0-campaign-timeline/session-recaps/session-23.md",
+    "0-campaign-timeline/session-recaps/session-22.md",
+    "0-campaign-timeline/session-recaps/session-21.md",
+    "0-campaign-timeline/session-recaps/session-20.md",
+    "0-campaign-timeline/session-recaps/session-19.md",
+    "0-campaign-timeline/session-recaps/session-18.md",
+    "0-campaign-timeline/session-recaps/session-17.md",
+    "0-campaign-timeline/session-recaps/session-16.md",
+    "0-campaign-timeline/session-recaps/session-15.md",
+    "0-campaign-timeline/session-recaps/session-14.md",
+    "0-campaign-timeline/session-recaps/session-13.md",
+    "0-campaign-timeline/session-recaps/session-12.md",
+    "0-campaign-timeline/session-recaps/session-11.md",
+    "0-campaign-timeline/session-recaps/session-10.md",
+    "0-campaign-timeline/session-recaps/session-09.md",
+    "0-campaign-timeline/session-recaps/session-08.md",
+    "0-campaign-timeline/session-recaps/session-07.md",
+    "0-campaign-timeline/session-recaps/session-06.md",
+    "0-campaign-timeline/session-recaps/session-05.md",
+    "0-campaign-timeline/session-recaps/session-04.md",
+    "0-campaign-timeline/session-recaps/session-03.md",
+    "0-campaign-timeline/session-recaps/session-02.md",
+    "0-campaign-timeline/session-recaps/session-01.md",
+    "0-campaign-timeline/session-recaps/session-24.md",
+    "Untitled.md",
+    "Resources/Templates",
+    "Resources/Images_base/VicentTwo.jpg",
+    "Resources/Images_base/VicentOne.jpg",
+    "Resources/Images_base/theAbhorrant.jpg",
+    "Resources/Images_base/StelleIrre.jpg",
+    "Resources/Images_base/SindralFootSoldier.jpg",
+    "Resources/Images_base/shopkeeper.jpg",
+    "Resources/Images_base/RonStarfallen.jpg",
+    "Resources/Images_base/Obscura.jpg",
+    "Resources/Images_base/KingCaelin.jpg",
+    "Resources/Images_base/JesseMarion.jpg",
+    "Resources/Images_base/Alice.psd",
+    "Resources/Images_base",
+    "Resources/Images",
+    "Resources",
+    "6-quests",
+    "5-assets/vehicles"
   ]
 }
