@@ -11,10 +11,14 @@
             "id": "0bf1d70676fb7b15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-campaign-timeline/timeline.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "timeline"
             }
           }
         ]
@@ -188,8 +192,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba8cdd200e6da057",
+  "active": "0bf1d70676fb7b15",
   "lastOpenFiles": [
+    "0-campaign-timeline/Mythos.md",
+    "4-factions/empire.md",
+    "4-factions/kingdom-of-armestria.md",
     "yrdd.md",
     "2-player-characters/0-the-party",
     "1-the-world/0-material-plane/continents/stelvyrn-empire",
@@ -216,9 +223,6 @@
     "0-campaign-timeline/session-recaps/session-04.md",
     "0-campaign-timeline/session-recaps/session-03.md",
     "0-campaign-timeline/session-recaps/session-02.md",
-    "0-campaign-timeline/session-recaps/session-01.md",
-    "0-campaign-timeline/session-recaps/session-24.md",
-    "Untitled.md",
     "Resources/Templates",
     "Resources/Images_base/VicentTwo.jpg",
     "Resources/Images_base/VicentOne.jpg",
